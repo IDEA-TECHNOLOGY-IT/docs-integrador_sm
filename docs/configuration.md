@@ -23,6 +23,8 @@ Defina a variável de ambiente `DB_CONNECTION=mysql` e configure as seguintes va
 - `MYSQL_HOST`
 - `MYSQL_DATABASE`
 
+- Inserir mais informações
+
 #### SQL Server
 
 Defina a variável de ambiente `DB_CONNECTION=sqlserver` e configure as seguintes variáveis:
