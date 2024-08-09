@@ -26,6 +26,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://example.com/politica_branches/</loc>
+         <lastmod>2024-08-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://example.com/testing/</loc>
          <lastmod>2024-08-09</lastmod>
          <changefreq>daily</changefreq>
